@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "真っ白",
+  "base_artist": "Fujii Kaze",
+  "createdAt": "2025-12-03T06:32:13.060478Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "真っ白",
+      "artist": "諸星すみれ",
+      "has_synced": true,
+      "path": "select/01_真っ白_諸星すみれ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "真っ白",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/02_真っ白_yama.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "真っ白 - From THE FIRST TAKE",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/03_真っ白_-_From_THE_FIRST_TAKE_yama.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "真っ白 - From THE FIRST TAKE",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/04_真っ白_-_From_THE_FIRST_TAKE_yama.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "真っ白 - masshiro (pure white)",
+      "artist": "Fujii Kaze",
+      "has_synced": false,
+      "path": "select/05_真っ白_-_masshiro_(pure_white)_Fujii_Kaze.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Masshiro (真っ白)",
+      "artist": "fhána",
+      "has_synced": false,
+      "path": "select/06_Masshiro_(真っ白)_fhána.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "真っ白",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_01_真っ白_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "真っ白",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_02_真っ白_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "真っ白",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_03_真っ白_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "真っ白",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_04_真っ白_藤井_風.txt"
+    }
+  ]
+}
